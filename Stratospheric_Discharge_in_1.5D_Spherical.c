@@ -28,7 +28,7 @@
 
 /***************************
  * PROBLEM PARAMETERS
- ***************************/
+ ***************************/jfgfghfgfgfg
 #define R_c 0.5   /* CLOUD RADIUS [M] */
 #define R_i 50.5   /* IONOSPHERE RADIUS [M] */
 #define Umax 110.0e+3   /* VOLTAGE [V] */
